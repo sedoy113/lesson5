@@ -19,5 +19,5 @@
 			//замена заголовка
 		title.textContent = 'Мы продаем только подлинную технику Apple';
 		//выводим надпись в окне
-	let review = prompt('Как вы относитесь к технике Apple?', 'Хорошо :) I love Apple!!!');
+	let review = prompt('Как вы относитесь к технике Apple?', 'I love Apple!!!');
 		idPrompt.textContent = review;
